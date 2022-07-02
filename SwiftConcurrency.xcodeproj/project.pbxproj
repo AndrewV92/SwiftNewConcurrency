@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FB3BF26428708D0C007D6B9E /* DoCatchTryThrows.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BF26328708D0C007D6B9E /* DoCatchTryThrows.swift */; };
+		FB3BF26628709634007D6B9E /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BF26528709634007D6B9E /* DownloadImageAsync.swift */; };
 		FB3ED96E286F806C00A856D8 /* SwiftConcurrencyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3ED96D286F806C00A856D8 /* SwiftConcurrencyApp.swift */; };
 		FB3ED970286F806C00A856D8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3ED96F286F806C00A856D8 /* ContentView.swift */; };
 		FB3ED972286F806D00A856D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB3ED971286F806D00A856D8 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		FB3BF26328708D0C007D6B9E /* DoCatchTryThrows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrows.swift; sourceTree = "<group>"; };
+		FB3BF26528709634007D6B9E /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 		FB3ED96A286F806C00A856D8 /* SwiftConcurrency.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrency.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB3ED96D286F806C00A856D8 /* SwiftConcurrencyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyApp.swift; sourceTree = "<group>"; };
 		FB3ED96F286F806C00A856D8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				FB3ED971286F806D00A856D8 /* Assets.xcassets */,
 				FB3ED973286F806D00A856D8 /* Preview Content */,
 				FB3BF26328708D0C007D6B9E /* DoCatchTryThrows.swift */,
+				FB3BF26528709634007D6B9E /* DownloadImageAsync.swift */,
 			);
 			path = SwiftConcurrency;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB3BF26628709634007D6B9E /* DownloadImageAsync.swift in Sources */,
 				FB3BF26428708D0C007D6B9E /* DoCatchTryThrows.swift in Sources */,
 				FB3ED970286F806C00A856D8 /* ContentView.swift in Sources */,
 				FB3ED96E286F806C00A856D8 /* SwiftConcurrencyApp.swift in Sources */,
