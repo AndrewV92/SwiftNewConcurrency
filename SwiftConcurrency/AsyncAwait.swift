@@ -67,9 +67,9 @@ struct AsyncAwait: View {
                 await viewModel.addAuthor1()
                 /*
                 код исполняется только когда await закончит выполнение
-                functions calls the same Task, but threads switching automatically
-                switch back to MainActor for UI updating(like dispatchqueue.main)
                 awaits is just suspention points
+                functions calls the same Task, but threads switching automatically
+                switch back to MainActor for UI updating(like dispatchqueue.main)                
                 */
                 let finalText = "Final text : \(Thread.current)"
                 viewModel.dataArray.append(finalText)
