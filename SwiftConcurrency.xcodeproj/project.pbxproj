@@ -11,6 +11,7 @@
 		FB3BF26628709634007D6B9E /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BF26528709634007D6B9E /* DownloadImageAsync.swift */; };
 		FB3BF2682870E75A007D6B9E /* AsyncAwait.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BF2672870E75A007D6B9E /* AsyncAwait.swift */; };
 		FB3BF26A28722412007D6B9E /* Tasks.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BF26928722412007D6B9E /* Tasks.swift */; };
+		FB3BF26C287351B9007D6B9E /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BF26B287351B9007D6B9E /* AsyncLet.swift */; };
 		FB3ED96E286F806C00A856D8 /* SwiftConcurrencyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3ED96D286F806C00A856D8 /* SwiftConcurrencyApp.swift */; };
 		FB3ED970286F806C00A856D8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3ED96F286F806C00A856D8 /* ContentView.swift */; };
 		FB3ED972286F806D00A856D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB3ED971286F806D00A856D8 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 		FB3BF26528709634007D6B9E /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 		FB3BF2672870E75A007D6B9E /* AsyncAwait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwait.swift; sourceTree = "<group>"; };
 		FB3BF26928722412007D6B9E /* Tasks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tasks.swift; sourceTree = "<group>"; };
+		FB3BF26B287351B9007D6B9E /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
 		FB3ED96A286F806C00A856D8 /* SwiftConcurrency.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrency.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB3ED96D286F806C00A856D8 /* SwiftConcurrencyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyApp.swift; sourceTree = "<group>"; };
 		FB3ED96F286F806C00A856D8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				FB3BF26528709634007D6B9E /* DownloadImageAsync.swift */,
 				FB3BF2672870E75A007D6B9E /* AsyncAwait.swift */,
 				FB3BF26928722412007D6B9E /* Tasks.swift */,
+				FB3BF26B287351B9007D6B9E /* AsyncLet.swift */,
 			);
 			path = SwiftConcurrency;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				FB3BF26628709634007D6B9E /* DownloadImageAsync.swift in Sources */,
 				FB3BF26428708D0C007D6B9E /* DoCatchTryThrows.swift in Sources */,
+				FB3BF26C287351B9007D6B9E /* AsyncLet.swift in Sources */,
 				FB3BF2682870E75A007D6B9E /* AsyncAwait.swift in Sources */,
 				FB3ED970286F806C00A856D8 /* ContentView.swift in Sources */,
 				FB3BF26A28722412007D6B9E /* Tasks.swift in Sources */,
