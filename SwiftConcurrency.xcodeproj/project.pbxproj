@@ -17,6 +17,7 @@
 		FB3ED970286F806C00A856D8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3ED96F286F806C00A856D8 /* ContentView.swift */; };
 		FB3ED972286F806D00A856D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB3ED971286F806D00A856D8 /* Assets.xcassets */; };
 		FB3ED975286F806D00A856D8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB3ED974286F806D00A856D8 /* Preview Assets.xcassets */; };
+		FB73C0D22875D8C200A226F7 /* CheckContinuation.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB73C0D12875D8C200A226F7 /* CheckContinuation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		FB3ED96F286F806C00A856D8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FB3ED971286F806D00A856D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB3ED974286F806D00A856D8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FB73C0D12875D8C200A226F7 /* CheckContinuation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckContinuation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				FB3BF26928722412007D6B9E /* Tasks.swift */,
 				FB3BF26B287351B9007D6B9E /* AsyncLet.swift */,
 				FB3BF26D28736D7A007D6B9E /* TaskGroups.swift */,
+				FB73C0D12875D8C200A226F7 /* CheckContinuation.swift */,
 			);
 			path = SwiftConcurrency;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			files = (
 				FB3BF26628709634007D6B9E /* DownloadImageAsync.swift in Sources */,
 				FB3BF26428708D0C007D6B9E /* DoCatchTryThrows.swift in Sources */,
+				FB73C0D22875D8C200A226F7 /* CheckContinuation.swift in Sources */,
 				FB3BF26C287351B9007D6B9E /* AsyncLet.swift in Sources */,
 				FB3BF2682870E75A007D6B9E /* AsyncAwait.swift in Sources */,
 				FB3ED970286F806C00A856D8 /* ContentView.swift in Sources */,
