@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		FB341A36287C9267003CEE44 /* Actors.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB341A35287C9267003CEE44 /* Actors.swift */; };
 		FB341A38287DE4AE003CEE44 /* GlobalActors.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB341A37287DE4AE003CEE44 /* GlobalActors.swift */; };
+		FB341A3A287DF354003CEE44 /* Sendable.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB341A39287DF354003CEE44 /* Sendable.swift */; };
 		FB3BF26428708D0C007D6B9E /* DoCatchTryThrows.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BF26328708D0C007D6B9E /* DoCatchTryThrows.swift */; };
 		FB3BF26628709634007D6B9E /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BF26528709634007D6B9E /* DownloadImageAsync.swift */; };
 		FB3BF2682870E75A007D6B9E /* AsyncAwait.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BF2672870E75A007D6B9E /* AsyncAwait.swift */; };
@@ -42,6 +43,7 @@
 /* Begin PBXFileReference section */
 		FB341A35287C9267003CEE44 /* Actors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Actors.swift; sourceTree = "<group>"; };
 		FB341A37287DE4AE003CEE44 /* GlobalActors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActors.swift; sourceTree = "<group>"; };
+		FB341A39287DF354003CEE44 /* Sendable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sendable.swift; sourceTree = "<group>"; };
 		FB3BF26328708D0C007D6B9E /* DoCatchTryThrows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrows.swift; sourceTree = "<group>"; };
 		FB3BF26528709634007D6B9E /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 		FB3BF2672870E75A007D6B9E /* AsyncAwait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwait.swift; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 				FB73C0D32878516B00A226F7 /* DependencyInjection.swift */,
 				FB341A35287C9267003CEE44 /* Actors.swift */,
 				FB341A37287DE4AE003CEE44 /* GlobalActors.swift */,
+				FB341A39287DF354003CEE44 /* Sendable.swift */,
 			);
 			path = SwiftConcurrency;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 				FBAAEB0E287B66F500744259 /* UnitTestingViewModel.swift in Sources */,
 				FBAAEB1F287B842B00744259 /* NewMockDataService.swift in Sources */,
 				FB341A36287C9267003CEE44 /* Actors.swift in Sources */,
+				FB341A3A287DF354003CEE44 /* Sendable.swift in Sources */,
 				FB73C0D22875D8C200A226F7 /* CheckContinuation.swift in Sources */,
 				FBAAEB0C287B651500744259 /* UnitTestingView.swift in Sources */,
 				FB3BF26C287351B9007D6B9E /* AsyncLet.swift in Sources */,
