@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FB341A36287C9267003CEE44 /* Actors.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB341A35287C9267003CEE44 /* Actors.swift */; };
+		FB341A38287DE4AE003CEE44 /* GlobalActors.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB341A37287DE4AE003CEE44 /* GlobalActors.swift */; };
 		FB3BF26428708D0C007D6B9E /* DoCatchTryThrows.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BF26328708D0C007D6B9E /* DoCatchTryThrows.swift */; };
 		FB3BF26628709634007D6B9E /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BF26528709634007D6B9E /* DownloadImageAsync.swift */; };
 		FB3BF2682870E75A007D6B9E /* AsyncAwait.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BF2672870E75A007D6B9E /* AsyncAwait.swift */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		FB341A35287C9267003CEE44 /* Actors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Actors.swift; sourceTree = "<group>"; };
+		FB341A37287DE4AE003CEE44 /* GlobalActors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActors.swift; sourceTree = "<group>"; };
 		FB3BF26328708D0C007D6B9E /* DoCatchTryThrows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrows.swift; sourceTree = "<group>"; };
 		FB3BF26528709634007D6B9E /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 		FB3BF2672870E75A007D6B9E /* AsyncAwait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwait.swift; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				FB73C0D12875D8C200A226F7 /* CheckContinuation.swift */,
 				FB73C0D32878516B00A226F7 /* DependencyInjection.swift */,
 				FB341A35287C9267003CEE44 /* Actors.swift */,
+				FB341A37287DE4AE003CEE44 /* GlobalActors.swift */,
 			);
 			path = SwiftConcurrency;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FB3BF26628709634007D6B9E /* DownloadImageAsync.swift in Sources */,
+				FB341A38287DE4AE003CEE44 /* GlobalActors.swift in Sources */,
 				FB3BF26428708D0C007D6B9E /* DoCatchTryThrows.swift in Sources */,
 				FB73C0D42878516B00A226F7 /* DependencyInjection.swift in Sources */,
 				FBAAEB0E287B66F500744259 /* UnitTestingViewModel.swift in Sources */,
